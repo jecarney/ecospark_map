@@ -1,0 +1,5 @@
+<h4>Built Up Areas</h4>
+
+<p>Built-up or urban areas include all densely constructed areas in Ontario (the density threshold is defined as “when linear frequencies of structures are above 10 per 500 metres or 4 per 1 hectare, as defined in the Southern Ontario Land Resource Information System (SOLRIS) editing standards.“ OMNR. They may range in size from small hamlets to large cities.<p>  
+
+<p class="reference">Data Source: Ontario Ministry of Natural Resources, 2010. 

@@ -1,0 +1,5 @@
+<h4>GreenBelt</h4>
+
+<p>The greenbelt is approximately 1.8 million acres of protected agricultural and environmentally sensitive land in the Golden Horseshoe. These areas contain distinct ecological, geological, land use, and heritage features considered valuable. These lands are categorized into three main areas: the Oak Ridges Moraine, the Niagara Escarpment, and Protected Countryside. </p>
+
+<p class="reference">Data Source: Ontario Ministry of Natural Resources, 2005.</p> 

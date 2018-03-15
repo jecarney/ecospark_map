@@ -1,0 +1,5 @@
+<h4>Forest</h4>
+
+<p>Forests in this dataset include dense mixed, coniferous, and deciduous forest. </p>
+
+<p class="reference">Data Source: Government of Canada, Natural Resources Canada, Canvec series, 2012.</p>

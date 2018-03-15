@@ -1,0 +1,3 @@
+<h4>Sample Sites</h4>
+
+<p>This data is the result of students, teachers, volunteers and Ecospark staff counting invertebrates in various Ontario streams. The number of various invertebrate species can help identify stream health, which is quantified as an index. </p>
